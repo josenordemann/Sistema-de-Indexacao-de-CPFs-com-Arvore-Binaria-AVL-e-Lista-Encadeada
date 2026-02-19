@@ -6,7 +6,7 @@
 
 ## 📖 Sobre o Projeto (Remake - TP03)
 
-Este projeto é uma **continuação e evolução direta do trabalho anterior **. A principal atualização desta versão é a substituição da Árvore Binária de Busca (ABO não balanceada) por uma **Árvore AVL (Ordenada e Balanceada)**. 
+Este projeto é uma **continuação e evolução direta do trabalho anterior**. A principal atualização desta versão é a substituição da Árvore Binária de Busca (ABO não balanceada) por uma **Árvore AVL (Ordenada e Balanceada)**. 
 
 Desenvolvido para a disciplina **SSC0603 - Estrutura de Dados I** (USP-ICMC), o software implementa uma solução de alta performance integrando o balanceamento automático da AVL com a capacidade de armazenamento de uma Lista Dinâmica Encadeada (LDE).
 
