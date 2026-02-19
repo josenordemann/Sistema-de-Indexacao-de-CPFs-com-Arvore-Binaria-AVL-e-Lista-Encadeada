@@ -57,6 +57,10 @@ Abra o terminal na raiz do projeto e execute:
 
 ```bash
 gcc main.c ArvoreAVL.c LDED.c -o programa
+```
 
-### 1. Execução
+### 2. Execução
+
+```bash
 ./programa
+```
