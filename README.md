@@ -1,12 +1,10 @@
-# Sistema de Indexação de CPFs v2.0 - Árvore AVL & Lista Encadeada 🌳📄
+# Sistema de Indexação de CPFs - Árvore AVL & Lista Encadeada 🌳📄
 
 ![Language](https://img.shields.io/badge/language-C-blue)
 ![Course](https://img.shields.io/badge/course-Estrutura%20de%20Dados-green)
 ![Institution](https://img.shields.io/badge/USP-ICMC%2FEESC-orange)
 
 ## 📖 Sobre o Projeto
-
-Este projeto é uma **continuação e evolução direta do trabalho anterior**. A principal atualização desta versão é a substituição da Árvore Binária de Busca (ABO não balanceada) por uma **Árvore AVL (Ordenada e Balanceada)**. 
 
 Desenvolvido para a disciplina **SSC0603 - Estrutura de Dados I** (USP-ICMC), o software implementa uma solução de alta performance integrando o balanceamento automático da AVL com a capacidade de armazenamento de uma Lista Dinâmica Encadeada (LDE).
 
